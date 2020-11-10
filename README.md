@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WnndGws&theme=buefy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WnndGws&theme=buefy)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=WnndGws&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=WnndGws&show_icons=true&theme=buefy&count_private=true&include_all_commits=true)
 
 Graphs provided from ![github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **WnndGws/WnndGws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
