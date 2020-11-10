@@ -1,8 +1,8 @@
-### Hi there 👋
+### About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WnndGws&theme=buefy)
+![Github stats](https://github-readme-stats.vercel.app/api?username=WnndGws&show_icons=true&theme=react&count_private=true&include_all_commits=true)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=WnndGws&show_icons=true&theme=buefy&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WnndGws&theme=react)
 
 Graphs provided from ![github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--
